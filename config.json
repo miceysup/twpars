@@ -1,0 +1,10 @@
+{
+    "telegram_bot_token": "8850985041:AAGSnOaKGofVzm7m59X18aNo7zSCjgzxtdo",
+    "telegram_chat_id": "7233519195",
+    "twitch_token": "5nrst5d7m9ot41oa5f3nds2wu5u0ym",
+    "twitch_client_id": "gp762nuuoqcoxypju8c569th9wz7q5",
+    "admin_ids": [
+        7233519195
+    ],
+    "proxy": ""
+}
